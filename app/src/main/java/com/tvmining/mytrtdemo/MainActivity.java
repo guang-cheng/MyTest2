@@ -32,8 +32,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 /*"sdkappid": 1400210753,
-         测试1
-	 测试2
 	"users": [{	}, */
     private String userId;
      private String userToken;
