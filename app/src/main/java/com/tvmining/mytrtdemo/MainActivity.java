@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 // 初始化iLiveSDK房间管理模块
         ILiveRoomManager.getInstance().init(new ILiveRoomConfig());
 
-
+	//修改调试
         checkPermission();
         lvFuncs = (ListView) findViewById(R.id.lv_menu);
 
